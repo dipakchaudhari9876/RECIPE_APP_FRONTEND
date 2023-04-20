@@ -1,0 +1,29 @@
+.signup{
+    width: 356px;
+    margin-top: 200px;
+    padding: 20px 10px;
+    background-color: white;
+    color: black;
+    padding: 20px 20px;
+    border-radius: 10px;
+}
+
+.btn-signup{
+    margin-top: 15px;
+    width: 100%;
+    height: 38px;
+    background-color: rgb(224, 82, 89);
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    border: none;
+    outline: none;
+    border-radius: 30px;
+    cursor: pointer;
+}
+
+.bottom_signup{
+    cursor: pointer;
+    margin-top: 10px;
+    color: rgb(34, 121, 234);
+}
